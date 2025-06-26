@@ -1,7 +1,0 @@
-# AI
-transformers
-datasets
-torch
-
-# Connection
-wikipedia
